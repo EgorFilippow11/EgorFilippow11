@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @EgorFilippow11
-- 👀 I’m interested in Frontend-Development
+- 👋 Hi, I’m Egor
 - 🌱 I have 3 Years of Expirience with HTML, CSS, JavaScrpit and some Frameworks for this languages
 - 📫 How to reach me:
     Instagram: @y0ur.webdeveloper
